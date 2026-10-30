@@ -1,0 +1,2 @@
+curl http://localhost:3060/api/gifts/429
+{"_id":"6ae4d8911c5702137b217c75","id":"429","name":"Side Table","category":"Living Room","condition":"Older","posted_by":"23789","zipcode":"94102","date_added":1677715200,"age_days":1100,"age_years":3.01,"description":"This side table has been a convenient spot for lamps and books...","image":"/images/side-table.jpeg"}
